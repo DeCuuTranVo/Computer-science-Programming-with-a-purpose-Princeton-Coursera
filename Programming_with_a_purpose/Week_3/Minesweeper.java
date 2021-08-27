@@ -1,3 +1,5 @@
+package Programming_with_a_purpose.Week_3;
+
 public class Minesweeper {
     public static void main(String[] args) {
         int m = Integer.parseInt(args[0]);

@@ -1,3 +1,6 @@
+package Programming_with_a_purpose.Week_3;
+
+
 public class ThueMorse {
     public static void main(String[] args) {
         

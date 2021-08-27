@@ -1,3 +1,5 @@
+package Programming_with_a_purpose.Week_2;
+
 public class RandomWalkers {
     public static void main(String[] args) {
         

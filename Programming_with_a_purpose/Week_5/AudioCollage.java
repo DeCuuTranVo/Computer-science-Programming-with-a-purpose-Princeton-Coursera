@@ -72,7 +72,7 @@ public class AudioCollage {
         
         // System.out.println(a.length/alpha);
         // System.out.println(Math.floor(a.length/alpha));
-        // System.out.println(Math.round(a.length/alpha));
+        // System.out.println(Math.round(a.length/alpha));jav
         // System.out.println(a_changeSpeed.length);
 
         if (a_changeSpeed.length <= a.length) {

@@ -1,3 +1,4 @@
+package Programming_with_a_purpose.Week_2;
 import java.util.Random;
 
 public class RandomWalker {
